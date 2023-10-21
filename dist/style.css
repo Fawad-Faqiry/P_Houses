@@ -1,0 +1,22 @@
+/* modifing styles */
+::-webkit-scrollbar {
+  display: none;
+}
+.banner {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./images/luxury.jpg");
+}
+.banner1 {
+  position: relative;
+  background: linear-gradient(315deg, white, green);
+}
+.hr {
+  margin-top: 120px !important;
+  padding-bottom: 50px;
+}
+.hr p {
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(112, 164, 112);
+}
