@@ -1,4 +1,7 @@
 /* modifing styles */
+body {
+  background-color: black;
+}
 ::-webkit-scrollbar {
   display: none;
 }
